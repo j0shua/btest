@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-massively"]
 	path = themes/hugo-theme-massively
 	url = https://github.com/curttimson/hugo-theme-massively.git
+[submodule "themes/hugo-nuo"]
+	path = themes/hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo.git
